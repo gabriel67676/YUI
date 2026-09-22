@@ -15,10 +15,10 @@ Projeto desenvolvido para criar uma API com Node.js e Express e um frontend que 
 
 ## Estrutura do projeto
 
-- Backend/
+- Backend
   - package.json
   - server.js
-- Frontend/
+- Frontend
   - index.html
   - style.css
   - script.js
@@ -28,5 +28,12 @@ Projeto desenvolvido para criar uma API com Node.js e Express e um frontend que 
 
 1. Entre na pasta Backend:
 
-```bash
 cd Backend
+
+2. Inicie a API
+
+node server.js
+
+3. Abra o Frontend pelo live server
+
+A API utiliza a porta 3000.
